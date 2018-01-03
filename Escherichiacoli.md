@@ -9,7 +9,9 @@ The **wgMLST *Escherichia coli* schema** included a total of **7,601 loci**.
 * [schema *Escherichia coli* (7z file part 2)](https://drive.google.com/file/d/1b-tCodCZclnt2_TpAPYgQh_bYVGOUtCf/view?usp=sharing) 
 
 ## Dataset
-*description missing*
+As reference dataset, **2,312** public available draft or complete genome assemblies and available metadata of *Escherichia coli* have been downloaded from [EnteroBase](https://enterobase.warwick.ac.uk/species/index/ecoli). The collection includes **1,465** *S.* Enteritidis, **2,410** *S.* Typhimurium, and **438** of other frequently isolated serovars in Europe (EFSA/ ECDC, 2016). The dataset includes also **148** *S.* Typhimurium variant 4,[5],12:i:- collected from different Italian regions between 2012 and 2014 during a surveillance study and  **129** *S.* Enteritidis belonging to the **[INNUENDO Sequence Dataset](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxpbm51ZW5kb2NvbnxneDo2YmYyOGU0MjE4ZGJiMmQ0)**.
+
+* [Minimal metadata of *E. coli* dataset]()
 
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **2,360 loci**.

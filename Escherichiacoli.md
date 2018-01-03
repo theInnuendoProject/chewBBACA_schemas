@@ -16,5 +16,5 @@ As reference dataset, **2,312** public available draft or complete genome assemb
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **2,360 loci**.
 
-* [cgMLST allele profile *Escherichia coli*](https://drive.google.com/file/d/1x-IkL508WRiNWSVNEKZlgkqUjP-Prjso/view?usp=sharing)
-* [goeBURST partitions](https://drive.google.com/file/d/1QumrQ1R2ulBaQTkM2Z9Ii16764G1HvQq/view?usp=sharing)
+* [cgMLST allele profile *Escherichia coli*](https://drive.google.com/file/d/1n-6a2gCZx2zxoBHmpMt-v_rkDfmImTG_/view?usp=sharing)
+* [goeBURST partitions](https://drive.google.com/file/d/13spszs5jMqJCXisQA2Mehm9zvrr0veRW/view?usp=sharing)

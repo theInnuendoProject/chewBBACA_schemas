@@ -13,9 +13,10 @@ The **wgMLST *Escherichia coli* schema** included a total of **7,601 loci**.
 
 * [schema *Escherichia coli* (7z file part 1)](https://drive.google.com/file/d/1NvphfcSoUyrX4qnyxjnPTv1lrBVHpK5R/view?usp=sharing)
 * [schema *Escherichia coli* (7z file part 2)](https://drive.google.com/file/d/1b-tCodCZclnt2_TpAPYgQh_bYVGOUtCf/view?usp=sharing) 
+* [wgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/file/d/1E0mS95OeiGECpEmq5VsxolrCYeMMp0nN/view?usp=sharing) 
 
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **2,360 loci**.
 
-* [cgMLST allele profile *Escherichia coli*](https://drive.google.com/file/d/1n-6a2gCZx2zxoBHmpMt-v_rkDfmImTG_/view?usp=sharing)
+* [cgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/file/d/1n-6a2gCZx2zxoBHmpMt-v_rkDfmImTG_/view?usp=sharing)
 * [goeBURST partitions](https://drive.google.com/file/d/13spszs5jMqJCXisQA2Mehm9zvrr0veRW/view?usp=sharing)

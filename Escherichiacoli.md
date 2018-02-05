@@ -20,3 +20,5 @@ The **cgMLST profile**, defined as the loci presence in at least the **99% of th
 
 * [cgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/file/d/1n-6a2gCZx2zxoBHmpMt-v_rkDfmImTG_/view?usp=sharing)
 * [goeBURST partitions](https://drive.google.com/file/d/13spszs5jMqJCXisQA2Mehm9zvrr0veRW/view?usp=sharing)
+
+Note: only genomes with < 2% missing loci are included

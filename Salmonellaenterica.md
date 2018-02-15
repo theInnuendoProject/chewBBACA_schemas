@@ -7,15 +7,19 @@ As reference dataset, **4,313** public available draft or complete genome assemb
 * [Minimal metadata of *S. enterica* dataset]() *file to be added*
 
 ## Schema creation and validation
-The wgMLST schema from [EnteroBase](https://enterobase.warwick.ac.uk/species/senterica/download_data) have been downloaded and curated using *chewBBACA AutoAlleleCDSCuration* for removing all alleles that are not coding sequences (CDS). The quality of the remain loci have been assessed using *chewBBACA Schema Evaluation* and loci with single alleles, those with high length variability (i.e. if more than 1 allele is outside the mode +/- 0.05 size) and those present in less than 0.5% of the *Salmonella* genomes in [EnteroBase](https://enterobase.warwick.ac.uk/species/index/senterica) at the date of the analysis (April 2017) have been removed. The wgMLST schema have been further curated, excluding all those loci detected as “Repeated Loci” and loci annotated as “non-informative paralogous hit (NIPH/ NIPHEM)” or “Allele Larger/ Smaller than length mode (ALM/ ASM)” by the *chewBBACA Allele Calling* engine in more than 1% of a dataset composed by **4,590 *Salmonella** genomes.
+The wgMLST schema from [EnteroBase](https://enterobase.warwick.ac.uk/species/senterica/download_data) have been downloaded and curated using *chewBBACA AutoAlleleCDSCuration* for removing all alleles that are not coding sequences (CDS). The quality of the remain loci have been assessed using *chewBBACA Schema Evaluation* and loci with single alleles, those with high length variability (i.e. if more than 1 allele is outside the mode +/- 0.05 size) and those present in less than 0.5% of the *Salmonella* genomes in [EnteroBase](https://enterobase.warwick.ac.uk/species/index/senterica) at the date of the analysis (April 2017) have been removed. The wgMLST schema have been further curated, excluding all those loci detected as “Repeated Loci” and loci annotated as “non-informative paralogous hit (NIPH/ NIPHEM)” or “Allele Larger/ Smaller than length mode (ALM/ ASM)” by the *chewBBACA Allele Calling* engine in more than 1% of a dataset composed by **4,590 *Salmonella*** genomes.
 
 ## wgMLST schema
 The **wgMLST *Salmonella enterica* schema** included a total of **8,558 loci**. 
 
 * [schema *Salmonella enterica* (7z file part 1)](https://drive.google.com/file/d/1WaYKk4bMe35BJMRuHx7nG82zFW8eHkXQ/view?usp=sharing)
 * [schema *Salmonella enterica* (7z file part 2)](https://drive.google.com/file/d/1TgmEPukeu1vIuw-DlKU_GxcibDnUzkr1/view?usp=sharing) 
+* [wgMLST allele profile of 4,590 *Salmonella enterica*](https://drive.google.com/file/d/1rk8R-O6uwAWdXkbxxZkUzP07mdMnvf3p/view?usp=sharing)
 
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **3,255 loci**.
 
-* [cgMLST allele profile *Salmonella enterica*](https://drive.google.com/file/d/123gRLK4WzkQ6-zv1oO8_X1Q9Wn4QSPtH/view?usp=sharing) 
+* [List of cgMLST loci](https://drive.google.com/file/d/1mKNWqnMzHeYN1ZA3R_d3YiHlLFQc1eq-/view?usp=sharing)
+* [cgMLST allele profile of 4,590 *Salmonella enterica*](https://drive.google.com/file/d/123gRLK4WzkQ6-zv1oO8_X1Q9Wn4QSPtH/view?usp=sharing) 
+* [cgMLST allele profile of 4,524 *Salmonella enterica*, allowing max 2% of missing loci](https://drive.google.com/file/d/1UL4vtShHA6DLW-71R1MkAQUMmx9gH6EO/view?usp=sharing)
+* 

@@ -6,7 +6,7 @@ The dataset is composed by a total of **6,685** genomes. A total of  **5,693??**
 * [Minimal metadata of *C. jejuni* dataset]() 
 
 ## Schema creation and validation
-
+Draft genome assemblies were annotated using Prokka and initial pangenome was defined using Roary. 
 
 ## wgMLST schema
 The **wgMLST *C. jejuni* schema** included a total of **2,795 loci**.

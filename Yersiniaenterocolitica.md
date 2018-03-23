@@ -6,7 +6,7 @@ All whole genome sequences raw reads of entries deposited in the European Nucleo
 * [Minimal metadata of *Y. enterocolitica* dataset](https://drive.google.com/file/d/1O6_Y79aqMhBn1ZL2KogLvxvV7UfseAQQ/view?usp=sharing) 
 
 ## Schema creation and validation
-All the 284 genomes were used for creating the schema using **[chewBBACA suite](https://github.com/B-UMMI/chewBBACA)**. The quality of the loci have been assessed using *chewBBACA Schema Evaluation* and loci with single alleles, those with high length variability (i.e. if more than 1 allele is outside the mode +/- 0.05 size) and those present in less than 1% of the genomes have been removed. The wgMLST schema have been further curated, excluding all those loci detected as “Repeated Loci” and loci annotated as “non-informative paralogous hit (NIPH/ NIPHEM)” or “Allele Larger/ Smaller than length mode (ALM/ ASM)” by the *chewBBACA Allele Calling engine* in more than 1% of a dataset.
+All the 284 genomes were used for creating the schema using **[chewBBACA suite](https://github.com/B-UMMI/chewBBACA)**. The quality of the loci have been assessed using [*chewBBACA Schema Evaluation*](https://github.com/B-UMMI/chewBBACA/wiki/1.-Schema-Creation) and loci with single alleles, those with high length variability (i.e. if more than 1 allele is outside the mode +/- 0.05 size) and those present in less than 1% of the genomes have been removed. The wgMLST schema have been further curated, excluding all those loci detected as “Repeated Loci” and loci annotated as “non-informative paralogous hit (NIPH/ NIPHEM)” or “Allele Larger/ Smaller than length mode (ALM/ ASM)” by the *chewBBACA Allele Calling engine* in more than 1% of a dataset.
 
 
 ## wgMLST schema

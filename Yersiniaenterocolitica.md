@@ -10,7 +10,7 @@ All the 284 genomes were used for creating the schema using **[chewBBACA suite](
 
 
 ## wgMLST schema
-The **wgMLST *Yersinia enterocolitica* schema** included a total of **6,435 loci**.
+The **wgMLST *Yersinia enterocolitica* schema** includes a total of **6,435 loci**.
 
 * [schema *Yersinia entercolitica* (7z archive)](https://drive.google.com/file/d/16ZHNji8x95PigtLCHryIdwPM9dQ8Km71/view?usp=sharing)
 * [wgMLST allele profile of 284 *Y. enterocolitica*](https://drive.google.com/file/d/10-TxsiFeoc-k0ZwaZJFhskRRBi6zIb7D/view?usp=sharing)

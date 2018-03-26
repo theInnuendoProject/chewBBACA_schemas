@@ -12,7 +12,7 @@ Draft genome assemblies were annotated using Prokka and initial pangenome was de
 The **wgMLST *C. coli* schema** includes a total of **2,477 loci**.
 
 * [schema *C. coli* (7z archive)](https://drive.google.com/open?id=1Pkqbl6RvRj7MLBxOJ15jmbbV13CrnVS6)
-* [wgMLST allele profile of 4,558 *C. coli*]() *link not working*
+* [wgMLST allele profile of 4,558 *C. coli*](https://drive.google.com/open?id=1uBpE_G7GtBJRyQ7luUWbMqrtbvpfsPWn)
 
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci presence in at least the **99.9% of the samples**, consists of **528 loci**. Genomes have no more than 2% of missing loci.

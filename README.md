@@ -6,4 +6,4 @@ wgMLST schema are available for:
 * [*Escherichia coli*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Escherichiacoli.md)
 * [*Yersinia enterocolitica*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Yersiniaenterocolitica.md)
 * [*Campylobacter jejuni*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Campylobacterjejuni.md)
-* [*Campylobacter coli*](https://github.com/INNUENDOCON/chewBBACA_schema/blob/master/Campylobactercoli.md) *working in progress*
+* [*Campylobacter coli*](https://github.com/INNUENDOCON/chewBBACA_schema/blob/master/Campylobactercoli.md)

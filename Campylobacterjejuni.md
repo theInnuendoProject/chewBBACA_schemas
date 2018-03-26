@@ -9,7 +9,7 @@ The dataset is composed by **6,685** genomes. A total of  **5,691** whole genome
 Draft genome assemblies were annotated using Prokka and initial pangenome was defined using Roary. The [*chewBBACA CreateSchema.py*](https://github.com/B-UMMI/chewBBACA/wiki/1.-Schema-Creation) was used for creating a whole genome schema starting from roary pangenome.  The schema was initially composed by 5,447 loci and has been populated with the **6,685** *C. jejuni* genomes. The quality of the loci have been assessed using [*chewBBACA Schema Evaluation*](https://github.com/B-UMMI/chewBBACA/wiki/1.-Schema-Creation). Loci with single alleles and those with high length variability (i.e. if more than 1 allele is outside the mode +/- 0.05 size) have been removed. The wgMLST schema have been further curated, excluding all those loci detected as “Repeated Loci” and loci annotated as “non-informative paralogous hit (NIPH/ NIPHEM)” or “Allele Larger/ Smaller than length mode (ALM/ ASM)” by the [*chewBBACA Allele Calling*](https://github.com/B-UMMI/chewBBACA/wiki/2.-Allele-Calling) engine in more than 1% of the *C. jejuni* genomes dataset. 
 
 ## wgMLST schema
-The **wgMLST *C. jejuni* schema** included a total of **2,795 loci**.
+The **wgMLST *C. jejuni* schema** includes a total of **2,795 loci**.
 
 * [schema *C. jejuni* (7z archive)](https://drive.google.com/open?id=1uJzxk6uwHNQJM92NDJy3vJrQQfSwLHhj)
 * [wgMLST allele profile of 6,685 *C. jejuni*](https://drive.google.com/open?id=1t1TY4lqFsF2vL8eSvGjWZGujHgSNT1ih)

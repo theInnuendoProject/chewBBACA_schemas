@@ -15,7 +15,7 @@ The **wgMLST *C. jejuni* schema** includes a total of **2,795 loci**.
 * [wgMLST allele profile of 6,685 *C. jejuni*](https://drive.google.com/open?id=1t1TY4lqFsF2vL8eSvGjWZGujHgSNT1ih)
 
 ## core genome MLST (cgMLST) profile
-The **cgMLST profile**, defined as the loci presence in at least the **99.9% of the samples**, consists of **678 loci**. Genomes have no more than 2% of missing loci.
+The **cgMLST profile**, defined as the loci present in at least the **99.9% of the samples**, consists of **678 loci**. Genomes have no more than 2% of missing loci.
 
 * [cgMLST allele profile of 6,685 *C. jejuni*](https://drive.google.com/open?id=1nPihxWJKm0_-ojV_BI_AVcfBQq9B3pCI)
 * [goeBURST clustering of the cgMLST profile of 6,685 *C. jejuni* at all possible thresholds](https://drive.google.com/open?id=119hQBf9yD1rpFcvdk4LTeMpvI1vybSaA)

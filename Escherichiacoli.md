@@ -1,5 +1,7 @@
 # *Escherichia coli*
 
+# NOTE: the archive containing the schema seems not correctly formated. I will resolve the problem ASAP.
+
 ## Dataset
 As reference dataset, **2,218** public draft or complete genome assemblies and available metadata of *Escherichia coli* have been downloaded from [EnteroBase](https://enterobase.warwick.ac.uk/species/index/ecoli) in April 2017. Genomes have been selected on the basis of the ribosomal ST (rST) classification available in [EnteroBase](https://enterobase.warwick.ac.uk/species/index/ecoli): from the same rST, genomes have been randomly selected and downloaded. The number of samples for each rST in the final dataset is proportional to those available in [EnteroBase](https://enterobase.warwick.ac.uk/species/index/ecoli) in April 2017. The dataset includes also **119** *E.coli* VTEC belonging to the **[INNUENDO Sequence Dataset](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxpbm51ZW5kb2NvbnxneDo2YmYyOGU0MjE4ZGJiMmQ0)**.
 
@@ -11,8 +13,8 @@ The wgMLST schema from [EnteroBase](https://enterobase.warwick.ac.uk/species/eco
 ## wgMLST schema
 The **wgMLST *Escherichia coli* schema** includes a total of **7,601 loci**. 
 
-* [schema *Escherichia coli* (7z file part 1)](https://drive.google.com/file/d/1NvphfcSoUyrX4qnyxjnPTv1lrBVHpK5R/view?usp=sharing)
-* [schema *Escherichia coli* (7z file part 2)](https://drive.google.com/file/d/1b-tCodCZclnt2_TpAPYgQh_bYVGOUtCf/view?usp=sharing) 
+* [schema *Escherichia coli* (7z file part 1)]() *link not working*
+* [schema *Escherichia coli* (7z file part 2)]() *link not working*
 * [wgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/file/d/1E0mS95OeiGECpEmq5VsxolrCYeMMp0nN/view?usp=sharing) 
 
 ## core genome MLST (cgMLST) profile

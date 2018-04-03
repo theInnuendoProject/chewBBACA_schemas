@@ -16,7 +16,7 @@ The **wgMLST *Salmonella enterica* schema** includes a total of **8,558 loci**.
 * [wgMLST allele profile of 4,590 *Salmonella enterica*](https://drive.google.com/file/d/1rk8R-O6uwAWdXkbxxZkUzP07mdMnvf3p/view?usp=sharing)
 
 ## core genome MLST (cgMLST) profile
-The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **3,255 loci**.
+The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **3,255 loci**. Genomes have no more than 2% of missing loci.
 
 * [List of cgMLST loci](https://drive.google.com/file/d/1mKNWqnMzHeYN1ZA3R_d3YiHlLFQc1eq-/view?usp=sharing)
 * [cgMLST allele profile of 4,524 *Salmonella enterica*](https://drive.google.com/file/d/1UL4vtShHA6DLW-71R1MkAQUMmx9gH6EO/view?usp=sharing)

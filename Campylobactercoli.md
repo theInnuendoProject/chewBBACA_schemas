@@ -11,7 +11,7 @@ Draft genome assemblies were annotated using Prokka and initial pangenome was de
 ## wgMLST schema
 The **wgMLST *C. coli* schema** includes a total of **2,477 loci**.
 
-* [schema *C. coli* (7z archive)](https://drive.google.com/open?id=1Pkqbl6RvRj7MLBxOJ15jmbbV13CrnVS6)
+* [schema *C. coli* (7z archive)](https://drive.google.com/open?id=1Pkqbl6RvRj7MLBxOJ15jmbbV13CrnVS6) (11 Mb)
 * [wgMLST allele profile of 4,558 *C. coli*](https://drive.google.com/open?id=1uBpE_G7GtBJRyQ7luUWbMqrtbvpfsPWn)
 
 ## core genome MLST (cgMLST) profile

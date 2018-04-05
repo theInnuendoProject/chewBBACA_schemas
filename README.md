@@ -8,3 +8,5 @@ wgMLST schema are available for:
 * [*Campylobacter jejuni*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Campylobacterjejuni.md)
 * [*Campylobacter coli*](https://github.com/INNUENDOCON/chewBBACA_schema/blob/master/Campylobactercoli.md)
 * [*Campylobacter jejuni*/*Campylobacter coli*](https://github.com/INNUENDOCON/chewBBACA_schema/blob/master/Ccoli_Cjejuni.md)
+
+NOTE: if you extract the schema 7z archives using command lines estract as `7z x archive`

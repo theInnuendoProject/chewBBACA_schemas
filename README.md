@@ -15,7 +15,7 @@ This schema is prepared to be used with [**chewBBACA**](https://github.com/B-UMM
 Silva M, Machado M, Silva D, Rossi M, Moran-Gilad J, Santos S, Ramirez M, Carriço J. chewBBACA: A complete suite for gene-by-gene schema creation and strain identification. 15/03/2018. M Gen 4(3): doi:10.1099/mgen.0.000166
 
 ```
-In case you will use *Escherichia coli* or *Salmonella enterica* schema, since they both are derived from [EnteroBase](http://enterobase.warwick.ac.uk/) wgMLST schema please also cite:
+Since *Escherichia coli* or *Salmonella enterica* schema are both derived from [EnteroBase](http://enterobase.warwick.ac.uk/) wgMLST schema, when using them please also cite:
 ```
 Alikhan N-F, Zhou Z, Sergeant MJ, Achtman M (2018) A genomic overview of the population structure of Salmonella.  PLoS Genet 14 (4):e1007261. https://doi.org/10.1371/journal.pgen.1007261
 ```

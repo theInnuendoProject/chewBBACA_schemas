@@ -9,7 +9,7 @@ wgMLST schema are available for:
 
 
 ## Citation
-This schema is prepared to be used with [**chewBBACA**](https://github.com/B-UMMI/chewBBACA/wiki) ([Silva et al., 2018](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000166)). When using it with this software please cite:
+This schema is prepared to be used with [**chewBBACA**](https://github.com/B-UMMI/chewBBACA/wiki) ([Silva et al., 2018](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000166)). When using one of them with this software please cite:
 ```
 
 Silva M, Machado M, Silva D, Rossi M, Moran-Gilad J, Santos S, Ramirez M, Carriço J. chewBBACA: A complete suite for gene-by-gene schema creation and strain identification. 15/03/2018. M Gen 4(3): doi:10.1099/mgen.0.000166

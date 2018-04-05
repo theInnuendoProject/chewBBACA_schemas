@@ -6,7 +6,7 @@ The **wgMLST** schema for [*Campylobacter coli*](https://github.com/INNUENDOCON/
 ## wgMLST schema
 The ***C. jejuni/C. coli* wgMLST schema** includes a total of **1,732 loci**.
 
-* [schema *C. jejuni/C. coli* wgMLST schema (7z archive)](https://drive.google.com/open?id=1TI60AtPcfCIq7-LhcsAgIuCt0SnxtR72) 
+* [schema *C. jejuni/C. coli* wgMLST schema (7z archive)](https://drive.google.com/open?id=1TI60AtPcfCIq7-LhcsAgIuCt0SnxtR72) (11 Mb)
 * [wgMLST allele profile of 11,243 *C. jejuni* and *C. coli*](https://drive.google.com/open?id=1BGbmD-LlKuETO-4Rbrj_d0FVCb53yeP-) 
 
 ## core genome MLST (cgMLST) profile

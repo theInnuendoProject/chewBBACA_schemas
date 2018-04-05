@@ -12,7 +12,7 @@ The wgMLST schema from [EnteroBase](https://enterobase.warwick.ac.uk/species/sen
 ## wgMLST schema
 The **wgMLST *Salmonella enterica* schema** includes a total of **8,558 loci**. 
 
-* [schema *Salmonella enterica* (7z)](https://drive.google.com/open?id=1O5tUJNHh55dN9wjWu7_S5-jfeMG2NQIQ)
+* [schema *Salmonella enterica* (7z)](https://drive.google.com/open?id=1O5tUJNHh55dN9wjWu7_S5-jfeMG2NQIQ) (49 Mb)
 * [wgMLST allele profile of 4,590 *Salmonella enterica*](https://drive.google.com/file/d/1rk8R-O6uwAWdXkbxxZkUzP07mdMnvf3p/view?usp=sharing)
 
 ## core genome MLST (cgMLST) profile

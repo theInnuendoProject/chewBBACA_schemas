@@ -1,6 +1,4 @@
-# chewBBACA_schema
-Whole genome MLST (wgMLST) schemas formated for [**chewBBACA**](https://github.com/B-UMMI/chewBBACA/wiki) ([Silva et al., 2018](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000166))
-
+# Schema
 wgMLST schema are available for:
 * [*Salmonella enterica*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Salmonellaenterica.md)
 * [*Escherichia coli*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Escherichiacoli.md)

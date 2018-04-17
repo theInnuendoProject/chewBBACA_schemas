@@ -19,5 +19,4 @@ Since *Escherichia coli* and *Salmonella enterica* schema are both derived from 
 ```
 Alikhan N-F, Zhou Z, Sergeant MJ, Achtman M (2018) A genomic overview of the population structure of Salmonella.  PLoS Genet 14 (4):e1007261. https://doi.org/10.1371/journal.pgen.1007261
 ```
-## Note
-if you need to extract the schema 7z archives using command lines do it as `7z x archive` to mantain the directory structure needed for running `chewBBACA`
+

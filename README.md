@@ -19,5 +19,5 @@ Since *Escherichia coli* and *Salmonella enterica* schema are both derived from 
 ```
 Alikhan N-F, Zhou Z, Sergeant MJ, Achtman M (2018) A genomic overview of the population structure of Salmonella.  PLoS Genet 14 (4):e1007261. https://doi.org/10.1371/journal.pgen.1007261
 ```
-Acknowledgement 
+## Acknowledgement 
 The INNUENDO consortium thank the Austrian Agency for Health and Food Safety Limited to participating in the project by providing strains of *Escherichia coli*, *Salmonella enterica* and *Yersinia enterocolitica*. The consortium also thank all the researchers and the authorities worldwide which are contributing in our work by submitting pubblically the raw sequences of the bacterial strains in ENA or SRA. 

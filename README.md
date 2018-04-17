@@ -1,5 +1,5 @@
 # chewBBACA food-borne pathogens schemas 
-wgMLST schema are available for:
+wgMLST schemas are available for:
 * [*Salmonella enterica*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Salmonellaenterica.md)
 * [*Escherichia coli*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Escherichiacoli.md)
 * [*Yersinia enterocolitica*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Yersiniaenterocolitica.md)

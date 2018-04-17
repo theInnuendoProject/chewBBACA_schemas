@@ -11,11 +11,12 @@ The wgMLST schema from [EnteroBase](https://enterobase.warwick.ac.uk/species/eco
 ## wgMLST schema
 The **wgMLST *Escherichia coli* schema** includes a total of **7,601 loci**. 
 
-* [schema *Escherichia coli* (7z file)](https://drive.google.com/file/d/1xmAqWIWzdYYuPnifIH4O1pVydspo7YiU/view?usp=sharing) (49 Mb)
-* [wgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/file/d/1E0mS95OeiGECpEmq5VsxolrCYeMMp0nN/view?usp=sharing) 
+* [schema *Escherichia coli* (.tar.gz)](https://drive.google.com/open?id=1JfhHfBJM22hZxgHogSsIkMz66ia71WnV) (126 Mb)
+* [wgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/open?id=1fq765lrhL2eV35p9xs000BydX09qGMhm) 
 
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **2,360 loci**. Genomes have no more than 2% of missing loci.
 
-* [cgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/file/d/1n-6a2gCZx2zxoBHmpMt-v_rkDfmImTG_/view?usp=sharing)
+* [cgMLST schema](https://drive.google.com/open?id=1jeNMD2L9DaHt1O8O1HoUqgoSUdbNAq-G)
+* [cgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/open?id=1v3ZJUFD7_l9TmZe-m6T3tFCr1N7PEm-n)
 * [goeBURST clustering of the cgMLST profile of 2,337 *Escherichia coli* at all possible thresholds](https://drive.google.com/file/d/13spszs5jMqJCXisQA2Mehm9zvrr0veRW/view?usp=sharing)

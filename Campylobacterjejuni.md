@@ -11,12 +11,13 @@ Draft genome assemblies were annotated using Prokka and initial pangenome was de
 ## wgMLST schema
 The **wgMLST *C. jejuni* schema** includes a total of **2,795 loci**.
 
-* [schema *C. jejuni* (7z archive)](https://drive.google.com/open?id=1uJzxk6uwHNQJM92NDJy3vJrQQfSwLHhj) (7 Mb)
+* [schema *C. jejuni* (.tar.gz)](https://drive.google.com/open?id=1s_0KG-lKRcG5Rzhv3q1ZhwCcGwfVEuiA) (14 Mb)
 * [wgMLST allele profile of 6,685 *C. jejuni*](https://drive.google.com/open?id=1t1TY4lqFsF2vL8eSvGjWZGujHgSNT1ih)
 
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci present in at least the **99.9% of the samples**, consists of **678 loci**. Genomes have no more than 2% of missing loci.
 
+* [cgMLST schema](https://drive.google.com/open?id=1EwMkaq25dEsdoua7oT3FaV8ufGbRg2Sb)
 * [cgMLST allele profile of 6,685 *C. jejuni*](https://drive.google.com/open?id=1nPihxWJKm0_-ojV_BI_AVcfBQq9B3pCI)
 * [goeBURST clustering of the cgMLST profile of 6,685 *C. jejuni* at all possible thresholds](https://drive.google.com/open?id=119hQBf9yD1rpFcvdk4LTeMpvI1vybSaA)
 

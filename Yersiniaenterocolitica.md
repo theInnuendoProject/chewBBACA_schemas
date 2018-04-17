@@ -12,11 +12,12 @@ All the 284 genomes were used for creating the schema using **[chewBBACA suite](
 ## wgMLST schema
 The **wgMLST *Yersinia enterocolitica* schema** includes a total of **6,435 loci**.
 
-* [schema *Yersinia entercolitica* (7z archive)](https://drive.google.com/file/d/16ZHNji8x95PigtLCHryIdwPM9dQ8Km71/view?usp=sharing) (6 Mb)
+* [schema *Yersinia entercolitica* (.tar.gz archive)](https://drive.google.com/open?id=1rZbbpCRjUzZnWoXshyEsAU6O4gnvoV_e) (12 Mb)
 * [wgMLST allele profile of 284 *Y. enterocolitica*](https://drive.google.com/file/d/10-TxsiFeoc-k0ZwaZJFhskRRBi6zIb7D/view?usp=sharing)
 
 ## core genome MLST (cgMLST) profile
 The **cgMLST profile**, defined as the loci presence in at least the **99% of the samples**, consists of **2,403 loci**. Genomes have no more than 2% of missing loci.
 
+* [cgMLST schema](https://drive.google.com/open?id=1ltPwnvmchQ8tPYW0EGSVIKX7edc17iSA)
 * [cgMLST allele profile of 284 *Y. enterocolitica*](https://drive.google.com/file/d/1bFsgtzoCNEJstWqL60DPbweYO-6Qb_5s/view?usp=sharing)
 * [goeBURST clustering of the cgMLST profile of 284 *Y. enterocolitica* at all possible thresholds](https://drive.google.com/file/d/14PHUeG2pC3UOmP8tqkgoLnwdVHSuD4RY/view?usp=sharing)

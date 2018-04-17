@@ -21,3 +21,6 @@ Alikhan N-F, Zhou Z, Sergeant MJ, Achtman M (2018) A genomic overview of the pop
 ```
 ## Acknowledgement 
 The INNUENDO consortium thank the Austrian Agency for Health and Food Safety Limited to participating in the project by providing strains of *Escherichia coli*, *Salmonella enterica* and *Yersinia enterocolitica*. The consortium also thank all the researchers and the authorities worldwide which are contributing in our work by submitting pubblically the raw sequences of the bacterial strains in ENA or SRA. 
+
+## Contact
+> Mirko Rossi mirko.rossi@helsinki.fi

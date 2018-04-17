@@ -14,7 +14,7 @@ AK Llarena, J Halkilahti, A Jaakkonen, F Palma, A Culebro, R Kivistö, ML Hänni
 
 The schemas are prepared to be used with [**chewBBACA**](https://github.com/B-UMMI/chewBBACA/wiki). When using one of them with this software please cite:
 
-> Silva M, Machado M, Silva D, Rossi M, Moran-Gilad J, Santos S, Ramirez M, Carriço J. chewBBACA: A complete suite for gene-by-gene schema creation and strain identification. 15/03/2018. M Gen 4(3): doi:10.1099/mgen.0.000166
+> Silva M, Machado M, Silva D, Rossi M, Moran-Gilad J, Santos S, Ramirez M, Carriço J. chewBBACA: A complete suite for gene-by-gene schema creation and strain identification. 15/03/2018. M Gen 4(3): doi:10.1099/mgen.0.000166 http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000166
 
 Since *Escherichia coli* and *Salmonella enterica* schemas are both derived from [EnteroBase](http://enterobase.warwick.ac.uk/) wgMLST schemas, when using them please also cite:
 

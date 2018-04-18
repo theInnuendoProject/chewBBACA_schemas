@@ -9,8 +9,8 @@ wgMLST schemas are available for:
 
 
 ## Citation
-> M Rossi, M Silva, B Goncalves, DN Silva, MP Machado, M Oleastro, V Borges, J Isidro, D Barker, 
-AK Llarena, J Halkilahti, A Jaakkonen, F Palma, A Culebro, R Kivistö, ML Hänninen, R Laukkanen-Ninios, M Fredriksson-Ahomaa, S Salmenlinna, M Hakkinen, J Garaizer, J Bikandi, F Hilbert, E Taboada, JA Carriço. INNUENDO whole and core genome MLST databases and schemas for foodborne pathogens. https://github.com/INNUENDOCON/chewBBACA_schemas  
+> M Rossi, M Silva, B Ribeiro-Gonçalves, DN Silva, MP Machado, M Oleastro, V Borges, J Isidro, JP Gomes, L Vieira, DOR Barker, 
+AK Llarena, J Halkilahti, A Jaakkonen, F Palma, A Culebro, R Kivistö, ML Hänninen, R Laukkanen-Ninios, M Fredriksson-Ahomaa, S Salmenlinna, M Hakkinen, J Garaizer, J Bikandi, F Hilbert, EN Taboada, JA Carriço. INNUENDO whole and core genome MLST databases and schemas for foodborne pathogens. https://github.com/INNUENDOCON/chewBBACA_schemas  
 
 The schemas are prepared to be used with [**chewBBACA**](https://github.com/B-UMMI/chewBBACA/wiki). When using one of them with this software please cite:
 

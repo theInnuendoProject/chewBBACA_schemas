@@ -11,7 +11,7 @@ The wgMLST schema from [EnteroBase](https://enterobase.warwick.ac.uk/species/eco
 ## wgMLST schema
 The **wgMLST *Escherichia coli* schema** includes a total of **7,601 loci**. 
 
-* [schema *Escherichia coli* (.tar.gz)](https://drive.google.com/open?id=1JfhHfBJM22hZxgHogSsIkMz66ia71WnV) (126 Mb)
+* [schema *Escherichia coli* (.tar.gz)](https://drive.google.com/open?id=1Qj9WoqcDYpilnq2CSyWyt_abDy95I0si) (126 Mb)
 * [wgMLST allele profiles of 2,337 *Escherichia coli*](https://drive.google.com/open?id=1fq765lrhL2eV35p9xs000BydX09qGMhm) 
 
 ## core genome MLST (cgMLST) profile

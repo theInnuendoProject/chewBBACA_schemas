@@ -3,7 +3,7 @@ wgMLST schemas are available for:
 * [*Salmonella enterica*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Salmonellaenterica.md)
 * [*Escherichia coli*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Escherichiacoli.md)
 * [*Yersinia enterocolitica*](https://github.com/INNUENDOCON/chewBBACA_schemas/blob/master/Yersiniaenterocolitica.md)
-* [*Campylobacter jejuni*](https://zenodo.org/record/1322564#.W18MlWeRauS) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1322564.svg)](https://doi.org/10.5281/zenodo.1322564)
+* *Campylobacter jejuni*  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1322564.svg)](https://doi.org/10.5281/zenodo.1322564)
 * [*Campylobacter coli*](https://github.com/INNUENDOCON/chewBBACA_schema/blob/master/Campylobactercoli.md)
 * [*Campylobacter jejuni*/*Campylobacter coli*](https://github.com/INNUENDOCON/chewBBACA_schema/blob/master/Ccoli_Cjejuni.md)
 

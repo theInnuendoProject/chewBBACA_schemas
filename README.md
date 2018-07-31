@@ -31,5 +31,6 @@ The conclusions, findings, and opinions expressed in this repository reflect onl
 ## Acknowledgement 
 The INNUENDO consortium thanks the Austrian Agency for Health and Food Safety Limited for participating in the project by providing strains of *Escherichia coli*, *Salmonella enterica* and *Yersinia enterocolitica*. The consortium also thanks all the researchers and the authorities worldwide which are contributing by submitting the raw sequences of the bacterial strains in ENA or SRA. The project was possible thanks to the support of CSC- Tieteen tietotekniikan keskus Oy (https://www.csc.fi/) and of INCD (http://www.incd.pt/, funded by FCT and FEDER under the project 22153-01/SAICT/2016) for providing access to cloud computing resources.
 
-## Contact
-> Mirko Rossi mirko.rossi@helsinki.fi
+## Contacts
+> Mirko Rossi mirossilab-at-gmail.com, mirossilab-at-icloud.com
+> João André Carriço jcarrico-at-fm.ul.pt

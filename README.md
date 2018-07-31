@@ -22,8 +22,11 @@ Since *Escherichia coli* and *Salmonella enterica* schemas are both derived from
 
 The isolates' genomes raw sequence data produced within the activity of the INNUENDO project were submitted to the European Nucleotide Archive (ENA) database and are publicly available under the project accession number PRJEB27020. When using the schemas, the assemblies or the allele profiles please include the project number in your publication. 
 
-Fundings
-The research from the INNUENDO project has received funding from European Food Safety Authority (EFSA), grant agreement GP/EFSA/AFSCO/2015/01/CT2 (New approaches in identifying and characterizing microbial and chemical hazards) and from the Government of the Basque Country. The conclusions, findings, and opinions expressed in this repository reflect only the view of the INNUENDO consortium members and not the official position of EFSA nor of the Government of the Basque Country. EFSA and the Government of the Basque Country are not responsible for any use that may be made of the information included in this repository. The consortium thanks all the researchers and the authorities worldwide which are contributing by submitting the raw sequences of the bacterial strains in public repositories. 
+## Fundings
+The research from the INNUENDO project has received funding from European Food Safety Authority (EFSA), grant agreement GP/EFSA/AFSCO/2015/01/CT2 (New approaches in identifying and characterizing microbial and chemical hazards) and from the Government of the Basque Country. 
+
+## Disclaimer
+The conclusions, findings, and opinions expressed in this repository reflect only the view of the INNUENDO consortium members and not the official position of EFSA nor of the Government of the Basque Country. EFSA and the Government of the Basque Country are not responsible for any use that may be made of the information included in this repository. The consortium thanks all the researchers and the authorities worldwide which are contributing by submitting the raw sequences of the bacterial strains in public repositories. 
 
 ## Acknowledgement 
 The INNUENDO consortium thanks the Austrian Agency for Health and Food Safety Limited for participating in the project by providing strains of *Escherichia coli*, *Salmonella enterica* and *Yersinia enterocolitica*. The consortium also thanks all the researchers and the authorities worldwide which are contributing by submitting the raw sequences of the bacterial strains in ENA or SRA. The project was possible thanks to the support of CSC- Tieteen tietotekniikan keskus Oy (https://www.csc.fi/) and of INCD (http://www.incd.pt/, funded by FCT and FEDER under the project 22153-01/SAICT/2016) for providing access to cloud computing resources.

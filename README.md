@@ -9,6 +9,8 @@
 *Campylobacter jejuni* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1322564.svg)](https://doi.org/10.5281/zenodo.1322564)
 >Mirko Rossi, Mickael Santos Da Silva, Bruno Filipe Ribeiro-Gonçalves, Diogo Nuno Silva, Miguel Paulo Machado, Mónica Oleastro, Vítor Borges, Joana Isidro, Luis Viera, Dillon OR Barker, Ann-Katrin Llarena, Jani Halkilahti, Anniina Jaakkonen, Rauni Kivistö, Sara Kovanen, Timo Nieminen, Marja-Liisa Hänninen, Saara Salmenlinna, Marjaana Hakkinen, Javier Garaizar, Joseba Bikandi, Friederike Hilbert, Eduardo N Taboada, João André Carriço. 2018. INNUENDO whole genome and core genome MLST schemas and datasets for *Campylobacter jejuni*. (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1322564
 
+*Yersinia enterocolitica* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1323672.svg)](https://doi.org/10.5281/zenodo.1323672)
+>Mirko Rossi, Mickael Santos Da Silva, Bruno Filipe Ribeiro-Gonçalves, Diogo Nuno Silva, Miguel Paulo Machado, Mónica Oleastro, Vítor Borges, Joana Isidro, Luis Viera, Jani Halkilahti, Anniina Jaakkonen, Riikka Laukkanen-Ninios, Maria Fredriksson-Ahomaa, Saara Salmenlinna, Marjaana Hakkinen, Javier Garaizar, Joseba Bikandi, Friederike Hilbert, João André Carriço. 2018. INNUENDO whole genome and core genome MLST schemas and datasets for *Yersinia enterocolitica*. (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1323672  
 
 ## Additional citations
 
